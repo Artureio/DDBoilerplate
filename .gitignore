@@ -1,0 +1,14 @@
+*.pyc
+__pycache
+.DS_Store
+.env.dev
+.env.prod
+.env.prod.db
+.env.dev.db
+env/
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
